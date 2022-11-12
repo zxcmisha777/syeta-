@@ -1,0 +1,7 @@
+echo "# syeta-" >> README.md
+git init
+git добавить README.md
+git commit -m "первая фиксация"
+git branch -M главная
+git remote add origin https://github.com/zxcmisha777/syeta-.git
+git push -u источник основной
